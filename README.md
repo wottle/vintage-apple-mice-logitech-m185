@@ -30,7 +30,7 @@ The buttons, battery door and other inner parts are shared by both versions of e
 <tr>
 <td><b>Lisa</b></td>
 <td><img src="images/lisa_fdm.jpg" width="300" alt="Lisa mouse, FDM print, Lisa logo plate"><br><sub>With the Lisa wordmark plate.</sub></td>
-<td><i>Photo to come.</i></td>
+<td><img src="images/lisa_resin.jpg" width="300" alt="Lisa mouse, resin print, Lisa logo plate"><br><sub>With the Lisa wordmark plate.</sub></td>
 </tr>
 <tr>
 <td><b>Macintosh<br>M0100</b></td>

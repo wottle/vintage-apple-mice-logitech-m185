@@ -24,7 +24,7 @@ changes, check the comparison table here.
 EXIF rotation applied. To add a photo, put it in `images/` and replace that cell's *Photo to come*
 in the README's variants table with an `<img ... width="300">` like its neighbours.
 
-Missing photos as of 2026-11-20: Lisa resin, Macintosh resin, ADB resin, ADB FDM (a render stands in:
+Missing photos as of 2026-11-21: Macintosh resin, ADB resin, ADB FDM (a render stands in:
 `adb_render.jpg`, from the ADB repo's `images/preview.png`). The Lisa and Macintosh FDM photos are older PLA
 prints with the original sloping sides (the note under the table says so); replace them with prints of the
 flat-sided FDM shells when there are some, and drop the note.
