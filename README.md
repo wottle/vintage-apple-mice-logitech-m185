@@ -8,6 +8,10 @@ printed shell. They work like any modern wireless mouse (USB receiver, no driver
 Each mouse is its own project, with print-ready STLs, printing and assembly guides, and the
 scripts that build the models. This page shows them side by side and links to each.
 
+<img src="images/all_fdm.jpg" width="900" alt="The four FDM variants side by side">
+
+<sub>FDM prints, left to right: Macintosh M0100, ADB G5431, and the Lisa mouse with the Apple logo plate and with the Lisa wordmark plate.</sub>
+
 | Mouse | Project |
 |-------|---------|
 | **Apple Lisa mouse** (1983) | [wottle/lisa-mouse-logitech-m185](https://github.com/wottle/lisa-mouse-logitech-m185) |
@@ -39,13 +43,10 @@ The buttons, battery door and other inner parts are shared by both versions of e
 </tr>
 <tr>
 <td><b>ADB<br>G5431</b></td>
-<td><img src="images/adb_render.jpg" width="300" alt="ADB mouse, render of the FDM shells"><br><sub>Render; photo to come.</sub></td>
+<td><img src="images/adb_fdm.jpg" width="300" alt="ADB G5431 mouse, FDM print"></td>
 <td><i>Photo to come.</i></td>
 </tr>
 </table>
-
-<sub>The Lisa and Macintosh photos are PLA prints made before the FDM shells got their flat sides, so they show
-the original sloping sides, as on the resin shells.</sub>
 
 The Lisa mouse with the Apple logo plate instead of the Lisa wordmark:
 

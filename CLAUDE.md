@@ -24,13 +24,12 @@ changes, check the comparison table here.
 EXIF rotation applied. To add a photo, put it in `images/` and replace that cell's *Photo to come*
 in the README's variants table with an `<img ... width="300">` like its neighbours.
 
-Missing photos as of 2026-11-21: Macintosh resin, ADB resin, ADB FDM (a render stands in:
-`adb_render.jpg`, from the ADB repo's `images/preview.png`). The Lisa and Macintosh FDM photos are older PLA
-prints with the original sloping sides (the note under the table says so); replace them with prints of the
-flat-sided FDM shells when there are some, and drop the note.
+Missing photos as of 2026-11-22: Macintosh resin and ADB resin. The FDM photos (all four, including the
+Lisa Apple-logo plate) are Mike's 2026-11-22 shots of the flat-sided FDM prints, cropped from two group
+photos; `all_fdm.jpg` is the group shot at the top of the README.
 
-Keep the Apple logo out of ADB pictures: its upper shell has the logo moulded in, from the source
-model, and the ADB repo's renders hide it.
+Keep the Apple logo out of ADB *renders* Claude makes: the upper shell has the logo moulded in, from the
+source model, and the ADB repo's renders hide it. Mike's own photos of the printed shell show it; that is his call.
 
 ## Working conventions
 
